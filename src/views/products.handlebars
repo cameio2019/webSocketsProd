@@ -1,0 +1,28 @@
+
+{{!-- <div class="container">
+    {{#each products}}
+    <div class="card">
+        <p>{{this.id}}</p>
+        <p>{{this.title}}</p>
+        <img src={{this.thumbnail}}>
+    </div>
+    {{/each}}
+</div> --}}
+
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="container justify-content-center">
+            <input type="button" class="btn btn-success mt-5" onclick="location.href='/'" value="Registrar un Producto">
+        </div>
+        {{#each products}}
+        <div class="col-lg-7" style="margin-top: 50px;">
+            <div class="card">
+                <p>{{this.id}}</p>
+                <p>{{this.title}}</p>
+                <img src="{{this.thumbnail}}" class="img-thumbnail"" alt="imagen">
+            </div>
+        </div>
+        {{/each}}
+    </div>
+</div>

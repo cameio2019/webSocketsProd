@@ -1,0 +1,37 @@
+[
+  {
+    "id": 5,
+    "name": "test10",
+    "title": "shampoo",
+    "price": "212",
+    "thumbnail": "http://localhost:8080/images/1638042735092ShampooVitaminoColor.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "test11",
+    "title": "gel",
+    "price": "2222",
+    "thumbnail": "http://localhost:8080/images/1638042834089AmpollaPowerdoseRepair.jpg"
+  },
+  {
+    "id": 9,
+    "name": "prodDef",
+    "title": "shampoo",
+    "price": "12121",
+    "thumbnail": "http://localhost:8080/images/1638043103448ShampooInforcer.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Crema2",
+    "title": "crema",
+    "price": "2034",
+    "thumbnail": "http://localhost:8080/images/1638045374964MascaraAbsolutRepair.jpg"
+  },
+  {
+    "id": 11,
+    "name": "CREMA3",
+    "title": "crema",
+    "price": "2345",
+    "thumbnail": "http://localhost:8080/images/1638141103814wildstilers.jpg"
+  }
+]
