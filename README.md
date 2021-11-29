@@ -6,6 +6,6 @@ Proyecto realizado para el curso de programación Backend en Coderhouse.
 
 ## Tecnologías
 
-- NodejS
+- NodeJS
 - socket
 - JS
